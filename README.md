@@ -56,7 +56,7 @@ Este repositório utiliza as seguintes tecnologias e ferramentas:
 
 ## 👤 Autor
 
-- **GitHub**: [seu-username](https://github.com/carlosqbarbosa)
-- **Frontend Mentor**: [seu-perfil](https://www.frontendmentor.io/profile/arlosqbarbosa)
+- **GitHub**: [Carlos Barbosa](https://github.com/carlosqbarbosa)
+- **Frontend Mentor**: [Carlos Barbosa](https://www.frontendmentor.io/profile/arlosqbarbosa)
 
 ---
