@@ -1,0 +1,103 @@
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1;
+  }
+
+  @supports (font-variation-settings: normal) {
+    :root { font-family: InterVariable, sans-serif; }
+  }
+  
+
+body{
+    min-height: 100vh;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    background-color: hsl(0, 0%, 8%);
+}
+
+#container{
+    background-color:hsl(0, 0%, 12%);
+    max-width: 350px;
+    padding: 40px;
+    border-radius: 10px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+}
+
+/* Parte de cima*/
+.header img{
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    object-fit: cover;
+
+}
+.header h1{
+    color:hsl(0, 0%, 100%);
+    font-size: 22px;
+    margin: 10px 0 5px;
+    font-weight: 600;
+}
+
+.header h2{
+    color: hsl(75, 94%, 57%);
+    font-size: 16px;
+    margin: 5px 0 15px;
+    font-weight: 500;
+}
+
+.header h3{
+    color:hsl(0, 0%, 100%);
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+/* redes socias*/
+
+#redes ul{
+    padding: 0;
+    width: 100%;
+}
+
+#redes ul li{
+    list-style-type: none;
+    margin: 10px 0;
+}
+
+.btn-redes{
+    background-color: hsl(0, 0%, 20%);
+    color:hsl(0, 0%, 100%);
+    display: block;
+    width: 100%;
+    height: 45px;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+    color:hsl(0, 0%, 100%);
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+
+}
+
+.btn-redes:hover {
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
+
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
