@@ -28,11 +28,7 @@ Cada desafio está organizado em uma pasta com os seguintes conteúdos:
 ### Desafios Concluídos:
 1. [**Social Links Profile**](./desafio-1/)
    - Um perfil simples com links sociais e design responsivo.
-     
-
-2. [**Cartão de Pré-Visualização**](./desafio-2/)
-   - Um layout para um cartão com imagem, texto e links estilizados.
-
+    <img src="desafio 1.jpg" alt="Resultado do primeiro Desafio feito">
 ### Próximos Desafios:
 - 
 
