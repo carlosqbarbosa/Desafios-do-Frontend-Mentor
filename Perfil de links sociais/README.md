@@ -1,6 +1,7 @@
 # Frontend Mentor - Social links profile
 
-![Design preview for the Social links profile coding challenge](Perfil de links sociais/referência.jpg)
+![Design preview for the Social links profile coding challenge]
+<img scr="Perfil de links sociais/referência.jpg">
 
 ## Welcome! 👋
 
