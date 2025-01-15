@@ -29,8 +29,11 @@ Cada desafio está organizado em uma pasta com os seguintes conteúdos:
 1. [**Social Links Profile**](./desafio-1/)
    - Um perfil simples com links sociais e design responsivo.
     <img src="desafio 1.jpg" alt="Resultado do primeiro Desafio feito">
-### Próximos Desafios:
-- 
+
+2.[**Blogr Landing page**](./desafio-2)
+   - Uma landing page simples para o Blogr.
+  <img src="desafio 02.png" alt="Resultado do segundo desafio feito">
+  
 
 ---
 
