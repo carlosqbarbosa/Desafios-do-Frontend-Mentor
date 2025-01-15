@@ -26,11 +26,11 @@ Cada desafio está organizado em uma pasta com os seguintes conteúdos:
 ## 🌟 Lista de Desafios
 
 ### Desafios Concluídos:
-1. [**Social Links Profile**](./desafio-1/)
+1. [**Social Links Profile**].
    - Um perfil simples com links sociais e design responsivo.
     <img src="desafio 1.jpg" alt="Resultado do primeiro Desafio feito">
 
-2.[**Blogr Landing page**](./desafio-2)
+2.[**Blogr Landing page**].
    - Uma landing page simples para o Blogr.
   <img src="desafio 02.png" alt="Resultado do segundo desafio feito">
   
